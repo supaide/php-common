@@ -1,0 +1,13 @@
+{
+    "name": "cyij/php-common",
+    "description": "php common",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cyij",
+            "email": "cyij2006@gmail.com"
+        }
+    ],
+    "require": {}
+}

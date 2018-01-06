@@ -1,0 +1,13 @@
+{
+    "name": "supaide/mvc",
+    "description": "simple mvc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cyij",
+            "email": "cyij2006@gmail.com"
+        }
+    ],
+    "require": {}
+}
