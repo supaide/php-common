@@ -9,6 +9,9 @@
             "email": "cyij2006@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"SPDPHPCommon\\": "src"}
+    },
     "classmap": ["src/"],
     "require": {}
 }
