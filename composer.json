@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"SPDPHPCommon\\": "src"}
+        "psr-4": {"SPD_PHP_Common\\": "src"}
     },
     "classmap": ["src/"],
     "require": {}
