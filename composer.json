@@ -9,5 +9,6 @@
             "email": "cyij2006@gmail.com"
         }
     ],
+    "classmap": ["src/"],
     "require": {}
 }
